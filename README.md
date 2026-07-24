@@ -165,12 +165,8 @@ The dashboard is built using a sample **Mobile Sales Dataset** containing transa
 ├── 📄 Mobile Sales Dashboard.pbix
 ├── 📄 Mobile_Sales_Data.xlsx
 ├── 📄 README.md
-│
-├── 📂 images
-│   ├── mobile_sales_dashboard.png
-│
-└── 📂 dataset
-    └── Mobile_Sales_Data.xlsx
+├── mobile_sales_dashboard.png
+
 ```
 
 ---

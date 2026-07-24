@@ -131,18 +131,12 @@ The dashboard is built using a sample **Mobile Sales Dataset** containing transa
 
 ---
 
-## 🎥 Dashboard Demo (Optional)
-
-### Dashboard GIF
-
-```markdown
-![Dashboard Demo]([images/mobile_dashboard_demo.gif](https://github.com/Adiitya09/Mobile-Sales-Dashboard/blob/main/mobile-Sales%20-%20Data.png))
-```
+## 🎥 Dashboard Demo (Optional) 
 
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="mobile-Sales- Data.png" alt="Mobile Sales Dashboard" width="100%">
+  <img src="mobile-Sales - Data.png" alt="Mobile Sales Dashboard" width="100%">
 </p>
 ---
 
@@ -226,8 +220,8 @@ This dashboard helps organizations monitor sales performance, identify high-perf
 
 ### 📬 Connect with Me
 
-- GitHub: https:[//github.com/yourusername](https://github.com/Adiitya09)
-- LinkedIn: https:[//linkedin.com/in/yourprofile](https://www.linkedin.com/in/2004-aditya-patil/)
+- GitHub: https:[//github.com/Adiitya09](https://github.com/Adiitya09)
+- LinkedIn: https:[//linkedin.com/in/adityapatil](https://www.linkedin.com/in/2004-aditya-patil/)
 
 ---
 

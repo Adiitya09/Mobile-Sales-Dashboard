@@ -131,15 +131,6 @@ The dashboard is built using a sample **Mobile Sales Dataset** containing transa
 
 ---
 
-# 📸 Dashboard Preview
-
-## Dashboard Overview
-
-<p align="center">
-<img src="images/mobile_sales_dashboard.png" width="100%">
-</p>
-
-
 ## 🎥 Dashboard Demo (Optional)
 
 ### Dashboard GIF
@@ -148,6 +139,11 @@ The dashboard is built using a sample **Mobile Sales Dataset** containing transa
 ![Dashboard Demo]([images/mobile_dashboard_demo.gif](https://github.com/Adiitya09/Mobile-Sales-Dashboard/blob/main/mobile-Sales%20-%20Data.png))
 ```
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="mobile-Sales- Data.png" alt="Mobile Sales Dashboard" width="100%">
+</p>
 ---
 
 # 📊 Key Insights
